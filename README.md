@@ -11,7 +11,7 @@
 
 - Add your own details to the contributor list
 - Make a Pull Request
-- [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
+- [Steps to add yourself to the contributers list](https://github.com/ALANAK777/Welcome-to-Open-Source-Contribution/blob/main/Contribute.md)
 
 <p align="center">
     <a href="https://twitter.com/akhil_r777">
@@ -36,9 +36,7 @@
 
 Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+
 <table>
     <tbody>
         <tr>
