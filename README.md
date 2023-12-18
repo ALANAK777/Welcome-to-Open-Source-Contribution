@@ -54,6 +54,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Giridharan</b></sub>
                 </a> 
             </td>
+              <td align="center">
+                <a href="https://github.com/SanjayVD777">
+                    <img src="https://avatars.githubusercontent.com/u/154277404?v=4" width="100px;" alt="Sanjay"/>
+                    <br />
+                    <sub><b>Sanjay V</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
