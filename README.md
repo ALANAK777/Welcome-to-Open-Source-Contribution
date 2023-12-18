@@ -47,6 +47,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Akhil</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/Giridharan002">
+                    <img src="https://avatars.githubusercontent.com/u/123318221?v=4" width="100px;" alt="Giri"/>
+                    <br />
+                    <sub><b>Giridharan</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
