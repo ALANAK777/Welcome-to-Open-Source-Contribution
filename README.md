@@ -21,7 +21,7 @@
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
     </a>
     <a href="https://youtube.com/@notsatisfy-777?si=eKpJPCliUGZxqOwz">
-        <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
+        <img height="50"  src="https://res.cloudinary.com/dr8csfvlj/image/upload/v1702919669/ytx_vkpqjc.png"/>
     </a>
     <a href="https://www.instagram.com/alan_unique_15/">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
