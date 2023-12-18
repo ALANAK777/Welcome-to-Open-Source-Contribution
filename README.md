@@ -44,7 +44,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
             <td align="center">
                 <a href="https://github.com/ALANAK777">
-                    <img src="https://res.cloudinary.com/dr8csfvlj/image/upload/v1702917624/my_pic_afrra3.jpg" width="100px;" alt="Akhil"/>
+                    <img src="https://res.cloudinary.com/dr8csfvlj/image/upload/v1702917986/my_pic_2_gsqots.jpg" width="100px;" alt="Akhil"/>
                     <br />
                     <sub><b>Akhil</b></sub>
                 </a> 
