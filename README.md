@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
-        <img height="90" width="90" src="https://res.cloudinary.com/dr8csfvlj/image/upload/v1702916417/git-2_qlcgut.png"/>
+        <img  src="https://res.cloudinary.com/dr8csfvlj/image/upload/v1702916417/git-2_qlcgut.png"/>
     </a>
 </p>
 
