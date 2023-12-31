@@ -61,6 +61,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sanjay V</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/harirajesh134">
+                    <img src="https://avatars.githubusercontent.com/u/155320848?v=4" width="100px;" alt="HARI_RAJESH_B"/>
+                    <br />
+                    <sub><b>HARI RAJESH B</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
