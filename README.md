@@ -68,6 +68,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>HARI RAJESH B</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/VISHWAr23">
+                    <img src="https://avatars.githubusercontent.com/u/156292379?v=4" width="100px;" alt="VISHWA_R"/>
+                    <br />
+                    <sub><b>VISHWA R</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
