@@ -75,6 +75,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>VISHWA R</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/Muthukrisnan2004">
+                    <img src="https://avatars.githubusercontent.com/u/150650993?v=4" width="100px;" alt="MUTHU_KRISH"/>
+                    <br />
+                    <sub><b>Muthu krishnan</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
