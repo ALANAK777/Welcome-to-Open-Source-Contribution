@@ -82,6 +82,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Muthu krishnan</b></sub>
                 </a> 
             </td>
+          <td align="center">
+              <a href="https://github.com/alex7842">
+                    <img src="https://avatars.githubusercontent.com/u/124391357?s=400&u=57e2bb7ece6550cf0d2b327a0049be0b4f1932ad&v=4" width="100px;" alt="VISHWA_R"/>
+                    <br />
+                    <sub><b>ALEX S</b></sub>
+            </a>
+          </td>
         </tr>
     </tbody>
 </table>
