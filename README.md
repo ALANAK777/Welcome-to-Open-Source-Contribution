@@ -76,12 +76,19 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/VISHWAr23">
+                <a href="https://github.com/Muthukrisnan2004">
+                    <img src="https://avatars.githubusercontent.com/u/150650993?v=4" width="100px;" alt="MUTHU_KRISH"/>
+                    <br />
+                    <sub><b>Muthu krishnan</b></sub>
+                </a> 
+            </td>
+          <td align="center">
+              <a href="https://github.com/alex7842">
                     <img src="https://avatars.githubusercontent.com/u/124391357?s=400&u=57e2bb7ece6550cf0d2b327a0049be0b4f1932ad&v=4" width="100px;" alt="VISHWA_R"/>
                     <br />
                     <sub><b>ALEX S</b></sub>
-                </a> 
-            </td>
+            </a>
+          </td>
         </tr>
     </tbody>
 </table>
