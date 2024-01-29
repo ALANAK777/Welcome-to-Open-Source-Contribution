@@ -77,7 +77,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Muthukrisnan2004">
-                    <img src="https://avatars.githubusercontent.com/u/150650993?v=4" width="100px;" alt="MUTHU_KRISH"/>
+                    <img src="https://res.cloudinary.com/dr8csfvlj/image/upload/v1706535699/muthu_profile_2_lnnyuy.jpg" width="100px;" alt="MUTHU_KRISH"/>
                     <br />
                     <sub><b>Muthu krishnan</b></sub>
                 </a> 
