@@ -89,6 +89,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>ALEX S</b></sub>
             </a>
           </td>
+          <td align="center">
+              <a href="https://github.com/I-Jude">
+                    <img src="https://avatars.githubusercontent.com/u/115415044?v=4" width="100px;" alt="I_JUDE_I"/>
+                    <br />
+                    <sub><b>JUDE I</b></sub>
+            </a>
+          </td>
         </tr>
     </tbody>
 </table>
