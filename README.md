@@ -96,6 +96,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>JUDE I</b></sub>
             </a>
           </td>
+          <td align="center">
+              <a href="https://github.com/ALWIN-A">
+                    <img src="https://avatars.githubusercontent.com/u/135091472?v=4" width="100px;" alt="ALWIN"/>
+                    <br />
+                    <sub><b>ALWIN</b></sub>
+            </a>
+          </td>
         </tr>
     </tbody>
 </table>
