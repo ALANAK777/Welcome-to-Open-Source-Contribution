@@ -103,6 +103,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>ALWIN</b></sub>
             </a>
           </td>
+          <td align="center">
+              <a href="https://github.com/PETCHIVARADHAN2005">
+                    <img src="https://avatars.githubusercontent.com/u/141945381?s=400&v=4" width="100px;" alt="PETCHI"/>
+                    <br />
+                    <sub><b>PETCHI</b></sub>
+            </a>
+          </td>
         </tr>
     </tbody>
 </table>
