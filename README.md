@@ -117,6 +117,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>IYAPPA KUMARAN</b></sub>
             </a>
           </td>
+              <td align="center">
+              <a href="https://github.com/Palanikumar106">
+                    <img src="https://avatars.githubusercontent.com/u/118107253?v=4" width="100px;" alt="Palani Kumar"/>
+                    <br />
+                    <sub><b>Palani Kumar</b></sub>
+            </a>
+          </td>
         </tr>
     </tbody>
 </table>
