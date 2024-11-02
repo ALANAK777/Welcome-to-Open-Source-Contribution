@@ -68,27 +68,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>HARI RAJESH B</b></sub>
                 </a> 
             </td>
-            <td align="center">
-                <a href="https://github.com/VISHWAr23">
-                    <img src="https://avatars.githubusercontent.com/u/156292379?v=4" width="100px;" alt="VISHWA_R"/>
-                    <br />
-                    <sub><b>VISHWA R</b></sub>
-                </a> 
-            </td>
-            <td align="center">
-                <a href="https://github.com/Muthukrisnan2004">
-                    <img src="https://res.cloudinary.com/dr8csfvlj/image/upload/v1706535699/muthu_profile_2_lnnyuy.jpg" width="100px;" alt="MUTHU_KRISH"/>
-                    <br />
-                    <sub><b>Muthu krishnan</b></sub>
-                </a> 
-            </td>
-          <td align="center">
-              <a href="https://github.com/alex7842">
-                    <img src="https://avatars.githubusercontent.com/u/124391357?s=400&u=57e2bb7ece6550cf0d2b327a0049be0b4f1932ad&v=4" width="100px;" alt="VISHWA_R"/>
-                    <br />
-                    <sub><b>ALEX S</b></sub>
-            </a>
-          </td>
           <td align="center">
               <a href="https://github.com/I-Jude">
                     <img src="https://avatars.githubusercontent.com/u/115415044?v=4" width="100px;" alt="I_JUDE_I"/>
@@ -122,13 +101,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/118107253?v=4" width="100px;" alt="Palani Kumar"/>
                     <br />
                     <sub><b>Palani Kumar</b></sub>
-            </a>
-          </td>
-          <td align="center">
-              <a href="https://github.com/Raseeth123">
-                    <img src="https://avatars.githubusercontent.com/u/129539396?v=4" width="100px;" alt="Sheik Raseeth Ansar"/>
-                    <br />
-                    <sub><b>Sheik Raseeth Ansar</b></sub>
             </a>
           </td>
         </tr>
