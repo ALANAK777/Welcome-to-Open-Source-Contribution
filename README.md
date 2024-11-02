@@ -40,11 +40,18 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
+         <td align="center">
+                <a href="https://github.com/alex7842">
+                    <img src="https://avatars.githubusercontent.com/u/124391357?s=400&u=57e2bb7ece6550cf0d2b327a0049be0b4f1932ad&v=4" width="100px;" alt="Alex"/>
+                    <br />
+                    <sub><b>Alex S</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/ALANAK777">
                     <img src="https://res.cloudinary.com/dr8csfvlj/image/upload/v1702917986/my_pic_2_gsqots.jpg" width="100px;" alt="Akhil"/>
                     <br />
-                    <sub><b>Akhil</b></sub>
+                    <sub><b>Akhil </b></sub>
                 </a> 
             </td>
             <td align="center">
